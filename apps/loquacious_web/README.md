@@ -1,4 +1,4 @@
-loquacious
+loquacious_web
 =====
 
 An OTP application
