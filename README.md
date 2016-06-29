@@ -1,7 +1,7 @@
 loquacious
 =====
 
-An OTP application
+Location Based Interest Matching
 
 Build
 -----
