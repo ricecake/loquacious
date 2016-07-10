@@ -5,7 +5,10 @@
   {mod, { loquacious_web_app, []}},
   {applications,
    [kernel,
-    stdlib
+    stdlib,
+    jsx,
+    cowboy,
+    geode
    ]},
   {env,[]},
   {modules, []},
